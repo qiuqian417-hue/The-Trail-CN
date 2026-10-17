@@ -1,0 +1,10 @@
+# 游戏原始或修改后的资源
+TheTrail_Data/
+*.assets
+*.resS
+*.resource
+
+# 本地构建输出与日志
+dist/
+work/
+*.log
