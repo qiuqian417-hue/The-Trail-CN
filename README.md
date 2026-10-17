@@ -21,7 +21,7 @@
 
 具体安装操作：
 
-将下载的 resources.assets 文件复制到游戏目录，通常为：..\steam\steamapps\common\The Trail\TheTrail_Data\
+将下载的文件解压后将其中的 resources.assets 复制到游戏目录，通常为：..\steam\steamapps\common\The Trail\TheTrail_Data\
 
 如需恢复原版，请在 Steam 中执行：
 
